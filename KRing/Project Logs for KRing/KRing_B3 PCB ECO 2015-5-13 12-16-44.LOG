@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=C16-1
+Removed Pin From Net: NetName=P_3.3V Pin=C16-2
+Added Pin To Net: NetName=P_3.3V Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C20-1

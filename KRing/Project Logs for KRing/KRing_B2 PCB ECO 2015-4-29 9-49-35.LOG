@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=SW_WAKEUP Pin=U6-32
+Added Component: Designator=L3(L0603)
+Added Pin To Net: NetName=GND Pin=L3-1
+Added Pin To Net: NetName=NetC21_1 Pin=L3-2
+Added Pin To Net: NetName=SW_WAKEUP Pin=U6-22
+Added Member To Class: ClassName=KRing Member=Component L3 NC

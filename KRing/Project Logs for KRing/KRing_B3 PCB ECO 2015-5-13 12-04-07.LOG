@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=U6-41
+Added Pin To Net: NetName=EVCC Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Member To Class: ClassName=KRing Member=Component C8 1uf
+Added Member To Class: ClassName=KRing Member=Component C16 1uf
+Added Member To Class: ClassName=KRing Member=Component J9 CON1
+Added Member To Class: ClassName=KRing Member=Component L3 NC
+Added Member To Class: ClassName=KRing Member=Component R13 1K
+Added Member To Class: ClassName=KRing Member=Component R16 1K
+Added Member To Class: ClassName=KRing Member=Component R17 1K

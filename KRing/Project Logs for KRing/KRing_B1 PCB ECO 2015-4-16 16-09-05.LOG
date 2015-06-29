@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=J4 NewDesignator=J5
+Added Component: Designator=J4(Motor Connector)
+Added Component: Designator=U5(LMC6482)
+Added Pin To Net: NetName=NetD1_A Pin=J4-1
+Added Pin To Net: NetName=P_C3.3V Pin=J4-2
+Added Pin To Net: NetName=M_SIG Pin=J4-3
+Added Pin To Net: NetName=OUT1 Pin=U5-1
+Added Pin To Net: NetName=NetC10_2 Pin=U5-2
+Added Pin To Net: NetName=V0.58 Pin=U5-3
+Added Pin To Net: NetName=GND Pin=U5-4
+Added Pin To Net: NetName=NetC13_1 Pin=U5-5
+Added Pin To Net: NetName=NetC12_2 Pin=U5-6
+Added Pin To Net: NetName=OUT2 Pin=U5-7
+Added Pin To Net: NetName=P_C3.3V Pin=U5-8
+Added Member To Class: ClassName=KRing Member=Component J5 CON4
+Added Member To Class: ClassName=KRing Member=Component U5 LMC6482

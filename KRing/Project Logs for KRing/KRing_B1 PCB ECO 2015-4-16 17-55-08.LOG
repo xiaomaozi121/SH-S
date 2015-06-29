@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=P_C3.3V Pin=C14-A
+Removed Pin From Net: NetName=GND Pin=C14-C
+Removed Member From Class: ClassName=KRing Member=C14

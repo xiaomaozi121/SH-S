@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=SW_WAKEUP Pin=C16-2
+Change Component Comment : Designator=C16 Old Comment=10uf New Comment=1uf
+Added Component: Designator=C18(C0603)
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=SW_WAKEUP Pin=C18-2

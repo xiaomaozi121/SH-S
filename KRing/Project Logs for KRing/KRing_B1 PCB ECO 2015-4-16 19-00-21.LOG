@@ -1,0 +1,6 @@
+Added Component: Designator=D1(Diode1206)
+Added Pin To Net: NetName=NetJ4_1 Pin=D1-A
+Added Pin To Net: NetName=P_C3.3V Pin=D1-C
+Change Net Name : Old Net Name=NetJ4_1 New Net Name=NetD1_A
+Added Member To Class: ClassName=KRing Member=Component D1 1N5817
+Added Room: Name=KRing

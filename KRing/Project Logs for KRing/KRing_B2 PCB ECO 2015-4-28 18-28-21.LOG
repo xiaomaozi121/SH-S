@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=Laser1 Old Footprint=Laser New Footprint=Battry_Connector
+Added Member To Class: ClassName=KRing Member=Component S1 SW_Mini

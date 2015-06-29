@@ -1,0 +1,95 @@
+Removed Pin From Net: NetName=AGND Pin=C1-1
+Removed Pin From Net: NetName=VDDA Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=EVCC Pin=C9-2
+Removed Pin From Net: NetName=OUT1 Pin=C10-1
+Removed Pin From Net: NetName=NetC10_2 Pin=C10-2
+Removed Pin From Net: NetName=NetC14_1 Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C14-2
+Removed Pin From Net: NetName=P_C3.3V Pin=C15-1
+Removed Pin From Net: NetName=V0.58 Pin=C16-1
+Removed Pin From Net: NetName=GND Pin=C16-2
+Removed Pin From Net: NetName=SWCLK Pin=J5-1
+Removed Pin From Net: NetName=GND Pin=J5-2
+Removed Pin From Net: NetName=SWDIO Pin=J5-3
+Removed Pin From Net: NetName=P_3.3V Pin=J5-4
+Removed Pin From Net: NetName=GND Pin=U6-41
+Removed Member From Class: ClassName=KRing Member=R18
+Change Component Comment : Designator=C18 Old Comment=10uf New Comment=1uf
+Change Component Designator: OldDesignator=C2 NewDesignator=C6
+Change Component Designator: OldDesignator=C3 NewDesignator=C4
+Change Component Designator: OldDesignator=C4 NewDesignator=C5
+Change Component Designator: OldDesignator=C5 NewDesignator=C2
+Change Component Designator: OldDesignator=C6 NewDesignator=C7
+Change Component Designator: OldDesignator=C7 NewDesignator=C8
+Change Component Designator: OldDesignator=C8 NewDesignator=C9
+Change Component Designator: OldDesignator=C11 NewDesignator=C12
+Change Component Designator: OldDesignator=C12 NewDesignator=C13
+Change Component Designator: OldDesignator=C13 NewDesignator=C14
+Change Component Designator: OldDesignator=C28 NewDesignator=C22
+Change Component Designator: OldDesignator=D1 NewDesignator=D2
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Change Component Designator: OldDesignator=J4 NewDesignator=J3
+Change Component Designator: OldDesignator=J6 NewDesignator=J4
+Change Component Designator: OldDesignator=J7 NewDesignator=J5
+Change Component Designator: OldDesignator=J8 NewDesignator=J6
+Change Component Designator: OldDesignator=J9 NewDesignator=J7
+Change Component Designator: OldDesignator=J10 NewDesignator=J8
+Change Component Designator: OldDesignator=J11 NewDesignator=J9
+Change Component Designator: OldDesignator=J12 NewDesignator=J10
+Change Component Designator: OldDesignator=J13 NewDesignator=J11
+Change Component Designator: OldDesignator=J14 NewDesignator=J12
+Change Component Designator: OldDesignator=L4 NewDesignator=L3
+Change Component Designator: OldDesignator=L5 NewDesignator=L4
+Change Component Designator: OldDesignator=R1 NewDesignator=R11
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Change Component Designator: OldDesignator=R6 NewDesignator=R5
+Change Component Designator: OldDesignator=R7 NewDesignator=R6
+Change Component Designator: OldDesignator=R8 NewDesignator=R7
+Change Component Designator: OldDesignator=R9 NewDesignator=R13
+Change Component Designator: OldDesignator=R10 NewDesignator=R8
+Change Component Designator: OldDesignator=R11 NewDesignator=R9
+Change Component Designator: OldDesignator=R12 NewDesignator=R10
+Change Component Designator: OldDesignator=R15 NewDesignator=R12
+Change Component Designator: OldDesignator=R16 NewDesignator=R14
+Change Component Designator: OldDesignator=R18 NewDesignator=R15
+Change Component Designator: OldDesignator=R21 NewDesignator=R16
+Change Component Designator: OldDesignator=R22 NewDesignator=R17
+Change Component Designator: OldDesignator=X2 NewDesignator=X1
+Added Component: Designator=C3(C0603)
+Added Component: Designator=C11(C0603)
+Added Component: Designator=C16(C0603)
+Added Component: Designator=J13(CON4 1mm)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=EVCC Pin=C1-2
+Added Pin To Net: NetName=AGND Pin=C3-1
+Added Pin To Net: NetName=VDDA Pin=C3-2
+Added Pin To Net: NetName=NetC14_1 Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=OUT1 Pin=C11-1
+Added Pin To Net: NetName=NetC10_2 Pin=C11-2
+Added Pin To Net: NetName=V0.58 Pin=C15-1
+Added Pin To Net: NetName=P_C3.3V Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=GND Pin=J13-2
+Added Pin To Net: NetName=P_3.3V Pin=J13-4
+Change Net Name : Old Net Name=NetC5_2 New Net Name=NetC2_2
+Change Net Name : Old Net Name=NetC6_1 New Net Name=NetC7_1
+Change Net Name : Old Net Name=NetC6_2 New Net Name=NetC7_2
+Change Net Name : Old Net Name=NetC10_2 New Net Name=NetC11_2
+Change Net Name : Old Net Name=NetC12_2 New Net Name=NetC13_2
+Change Net Name : Old Net Name=NetC13_1 New Net Name=NetC14_1
+Change Net Name : Old Net Name=NetC14_1 New Net Name=NetC10_1
+Change Net Name : Old Net Name=NetD1_A New Net Name=NetD2_A
+Change Net Name : Old Net Name=NetR3_2 New Net Name=NetR2_2
+Added Member To Class: ClassName=KRing Member=Component C5 1uf
+Added Member To Class: ClassName=KRing Member=Component C11 6.8pF
+Added Member To Class: ClassName=KRing Member=Component C16 10uf
+Added Member To Class: ClassName=KRing Member=Component C18 1uf
+Added Member To Class: ClassName=KRing Member=Component C20 1uf
+Added Member To Class: ClassName=KRing Member=Component J12 CON1
+Added Member To Class: ClassName=KRing Member=Component R13 1K
+Added Member To Class: ClassName=KRing Member=Component R17 1K

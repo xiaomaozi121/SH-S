@@ -1,0 +1,4 @@
+Added Component: Designator=J1(Battry_Connector)
+Added Pin To Net: NetName=VBAT Pin=J1-1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Member To Class: ClassName=KRing Member=Component J1 CON2

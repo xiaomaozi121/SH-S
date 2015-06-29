@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=D2 Old Footprint=Diode1206 New Footprint=SOD323(0805)
+Added Member To Class: ClassName=KRing Member=Component R6 50R

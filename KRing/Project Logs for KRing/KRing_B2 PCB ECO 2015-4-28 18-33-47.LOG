@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=P_C3.3V Pin=C18-A
+Removed Pin From Net: NetName=GND Pin=C18-C
+Change Component DesignItemId : Designator=C18 Old DesignItemId=PolarCap New DesignItemId=C
+Change Component Footprint: Designator=C18 Old Footprint=PolarC1206 New Footprint=C0603
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=P_C3.3V Pin=C18-2

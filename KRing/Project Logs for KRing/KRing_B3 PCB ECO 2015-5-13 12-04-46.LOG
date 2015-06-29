@@ -1,0 +1,10 @@
+Added Component: Designator=C8(C0603)
+Added Component: Designator=C15(C0603)
+Added Pin To Net: NetName=EVCC Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=NetC7_1 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=V0.58 Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Member To Class: ClassName=KRing Member=Component C8 1uf
+Added Member To Class: ClassName=KRing Member=Component C15 10uf

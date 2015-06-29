@@ -1,0 +1,70 @@
+Protel Design System Design Rule Check
+PCB File : E:\Project\Altium\KRing\KRing_B2.PcbDoc
+Date     : 2015/5/4
+Time     : 9:04:27
+
+Processing Rule : Clearance Constraint (Gap=0.152mm) ((HasFootprint('FPC 0.5mm 4P') OR HasFootprint('FPC 0.5mm 16P') OR HasFootprint('QFN40P500X500X90_HS-41L'))),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
+   Violation between Area Fill (14.599mm,22.781mm) (15.23mm,28.501mm)  Bottom Layer and 
+                     Area Fill (14.599mm,27.806mm) (18.577mm,28.501mm)  Bottom Layer
+   Violation between Area Fill (14.599mm,22.781mm) (19.791mm,23.391mm)  Bottom Layer and 
+                     Area Fill (14.599mm,22.781mm) (15.23mm,28.501mm)  Bottom Layer
+   Violation between Area Fill (13.372mm,18.812mm) (14.132mm,21.804mm)  Bottom Layer and 
+                     Area Fill (13.991mm,20.414mm) (15.532mm,21.804mm)  Bottom Layer
+Rule Violations :3
+
+Processing Rule : Width Constraint (Min=0.203mm) (Max=1000mm) (Preferred=0.508mm) ((InNet('EP_SUPPLY&VBAT') OR InNet('PSUPPLY') OR InNet('P_3.3V') OR InNet('PSUPPLYBAT') OR InNet('P_3.3V') OR InNet('P_5V')))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.203mm) (Max=100mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Area Fill (14.599mm,22.781mm) (15.23mm,28.501mm)  Bottom Layer and 
+                     Area Fill (14.599mm,27.806mm) (18.577mm,28.501mm)  Bottom Layer
+   Violation between Area Fill (14.599mm,22.781mm) (19.791mm,23.391mm)  Bottom Layer and 
+                     Area Fill (14.599mm,22.781mm) (15.23mm,28.501mm)  Bottom Layer
+   Violation between Area Fill (13.372mm,18.812mm) (14.132mm,21.804mm)  Bottom Layer and 
+                     Area Fill (13.991mm,20.414mm) (15.532mm,21.804mm)  Bottom Layer
+Rule Violations :3
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0mm) (Max=1817.048mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=50.8mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.203mm) (All),(All)
+   Violation between Via (-3.537mm,14.445mm) Top Layer to Bottom Layer and 
+                     Via (-3.144mm,14.06mm) Top Layer to Bottom Layer
+   Violation between Via (-5.259mm,3.153mm) Top Layer to Bottom Layer and 
+                     Via (-5.259mm,2.679mm) Top Layer to Bottom Layer
+   Violation between Via (-5.259mm,3.625mm) Top Layer to Bottom Layer and 
+                     Via (-5.259mm,3.153mm) Top Layer to Bottom Layer
+   Violation between Via (-8.71mm,13.173mm) Top Layer to Bottom Layer and 
+                     Via (-8.71mm,12.681mm) Top Layer to Bottom Layer
+Rule Violations :4
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 10
+Time Elapsed        : 00:00:00

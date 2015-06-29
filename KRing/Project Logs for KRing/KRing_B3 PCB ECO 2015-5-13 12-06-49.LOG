@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=NetC20_1 Pin=C20-1
+Added Member To Class: ClassName=KRing Member=Component C8 1uf
+Added Member To Class: ClassName=KRing Member=Component C10 6.8pF
+Added Member To Class: ClassName=KRing Member=Component C18 10uf
+Added Member To Class: ClassName=KRing Member=Component C22 10uf
+Added Member To Class: ClassName=KRing Member=Component J2 CON4
+Added Member To Class: ClassName=KRing Member=Component J13 CON4
+Added Member To Class: ClassName=KRing Member=Component R8 10M
+Added Member To Class: ClassName=KRing Member=Component R13 1K
+Added Member To Class: ClassName=KRing Member=Component R16 1K

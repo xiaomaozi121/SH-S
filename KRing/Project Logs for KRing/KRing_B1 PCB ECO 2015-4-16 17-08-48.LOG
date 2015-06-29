@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=CHARGE_STATES Pin=U6-27
+Added Member To Class: ClassName=KRing Member=Component U1 LTC4054
+Added Room: Name=KRing

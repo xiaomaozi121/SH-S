@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=C_MOTOR Pin=U2-45
+Removed Pin From Net: NetName=C_LASER Pin=U2-46
+Removed Pin From Net: NetName=LASER_STATE Pin=U6-6
+Added Pin To Net: NetName=C_LASER Pin=U2-21
+Added Pin To Net: NetName=C_MOTOR Pin=U2-22
+Added Pin To Net: NetName=LASER_STATE Pin=U6-20

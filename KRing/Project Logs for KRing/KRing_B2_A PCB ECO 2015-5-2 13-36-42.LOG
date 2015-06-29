@@ -1,0 +1,8 @@
+Added Component: Designator=C16(C0603)
+Added Component: Designator=S1(SW_Mini)
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=SW_WAKEUP Pin=C16-2
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=SW_WAKEUP Pin=S1-2
+Added Member To Class: ClassName=KRing Member=Component J1 CON2
+Added Member To Class: ClassName=KRing Member=Component S1 SW_Mini

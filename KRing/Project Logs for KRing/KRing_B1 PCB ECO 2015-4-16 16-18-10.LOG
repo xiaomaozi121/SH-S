@@ -1,0 +1,19 @@
+Added Component: Designator=J6(2.4mm)
+Added Component: Designator=J7(2.4mm)
+Added Component: Designator=J8(2.4mm)
+Added Component: Designator=J9(2.4mm)
+Added Component: Designator=J10(2.4mm)
+Added Component: Designator=J11(2.4mm)
+Added Component: Designator=J12(2.5MM)
+Added Component: Designator=J13(0.8mm)
+Added Component: Designator=J14(0.8mm)
+Added Member To Class: ClassName=KRing Member=Component J4 CON3
+Added Member To Class: ClassName=KRing Member=Component J6 CON1
+Added Member To Class: ClassName=KRing Member=Component J7 CON1
+Added Member To Class: ClassName=KRing Member=Component J8 CON1
+Added Member To Class: ClassName=KRing Member=Component J9 CON1
+Added Member To Class: ClassName=KRing Member=Component J10 CON1
+Added Member To Class: ClassName=KRing Member=Component J11 CON1
+Added Member To Class: ClassName=KRing Member=Component J12 CON1
+Added Member To Class: ClassName=KRing Member=Component J13 CON1
+Added Member To Class: ClassName=KRing Member=Component J14 CON1

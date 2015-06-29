@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=U4-9
+Removed Pin From Net: NetName=GND Pin=U6-41
+Change Component Footprint: Designator=J12 Old Footprint=0.8mm New Footprint=0.5mm
+Change Component Footprint: Designator=J13 Old Footprint=0.8mm New Footprint=0.5mm
+Added Member To Class: ClassName=KRing Member=Component S1 SW_Mini

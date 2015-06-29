@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetC9_1 Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C9-2
+Change Component Comment : Designator=C9 Old Comment=10uf New Comment=1uf
+Added Component: Designator=C?(C0603)
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=EVCC Pin=C9-2
+Added Pin To Net: NetName=NetC9_1 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Change Net Name : Old Net Name=NetC9_1 New Net Name=NetC?_1
+Added Member To Class: ClassName=KRing Member=Component C? 10uf

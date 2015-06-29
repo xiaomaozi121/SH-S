@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=LASER_STATE Pin=U6-39
+Added Pin To Net: NetName=LASER_STATE Pin=U6-10

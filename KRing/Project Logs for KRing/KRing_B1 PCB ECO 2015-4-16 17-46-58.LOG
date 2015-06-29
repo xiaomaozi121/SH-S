@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=NetPM2_2 Pin=C9-2
+Change Component Designator: OldDesignator=J13 NewDesignator=J12
+Change Component Designator: OldDesignator=J14 NewDesignator=J13

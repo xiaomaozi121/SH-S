@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=C_LASER Pin=U2-21
+Removed Pin From Net: NetName=C_MOTOR Pin=U2-22
+Added Pin To Net: NetName=C_MOTOR Pin=U2-38
+Added Pin To Net: NetName=C_LASER Pin=U2-46
+Added Member To Class: ClassName=KRing Member=Component C20 1uf
