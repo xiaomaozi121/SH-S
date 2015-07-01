@@ -1,9 +1,10 @@
-Output: Bill of Materials
-Type  : BOM
+Output: Test Point Report
+Type  : Test Points
 From  : Variant [[No Variations]] of Project [KRing.PrjPCB]
+   Generated File[Assembly Testpoint Report for KRing_B4_A1.csv]
 
 
-Files Generated   : 0
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 15:56:41 On 2015/5/11
+Finished Output Generation At 9:42:01 On 2015/7/1

@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=C20-2
+Removed Pin From Net: NetName=GND Pin=U6-41
+Change Component Comment : Designator=R3 Old Comment=0 New Comment=1K
+Change Component Comment : Designator=R4 Old Comment=1M New Comment=1K
+Change Component Comment : Designator=C11 Old Comment=1uf New Comment=6.8pf
+Change Component Comment : Designator=R11 Old Comment=4K7 New Comment=4.7K
+Change Component Comment : Designator=R15 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=C15 Old Comment=10uf New Comment=1uf
+Change Component Comment : Designator=R2 Old Comment=20K New Comment=1K
+Change Component Comment : Designator=R7 Old Comment=27K New Comment=1K
+Change Component Comment : Designator=R5 Old Comment=50R New Comment=1K
+Change Component Comment : Designator=R1 Old Comment=100K New Comment=1K
+Change Component Comment : Designator=R6 Old Comment=120K New Comment=1K
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Class: Name=KRing
