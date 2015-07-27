@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=N_B Pin=U2-1
+Removed Pin From Net: NetName=N_COM1 Pin=U2-15
+Added Pin To Net: NetName=N_COM1 Pin=U2-1
+Added Pin To Net: NetName=N_B Pin=U2-15
+Added Member To Class: ClassName=HCHO_Benchmark Member=Component J6 CON2

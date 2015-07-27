@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=HCHO_Benchmark Member=J?
+Added Component: Designator=J8(CON1X2_PCB)
+Added Component: Designator=J9(CON1_PCB)
+Added Component: Designator=J12(CON1_PCB)
+Added Pin To Net: NetName=-INA Pin=J8-1
+Added Pin To Net: NetName=OUT1 Pin=J8-2
+Added Pin To Net: NetName=NetJ9_1 Pin=J9-1
+Added Pin To Net: NetName=NetJ9_1 Pin=P1-A
+Added Net: Name=NetJ9_1
+Added Pin To Net: NetName=NetJ12_1 Pin=J12-1
+Added Pin To Net: NetName=NetJ12_1 Pin=P1-C
+Added Net: Name=NetJ12_1
+Added Member To Class: ClassName=HCHO_Benchmark Member=Component J8 CON1X2_PCB
+Added Member To Class: ClassName=HCHO_Benchmark Member=Component J9 CON1_PCB
+Added Member To Class: ClassName=HCHO_Benchmark Member=Component J12 CON1_PCB

@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=N_COM1 Pin=PNP2-1
+Removed Pin From Net: NetName=N_COM2 Pin=PNP3-1
+Removed Pin From Net: NetName=N_COM3 Pin=PNP4-1
+Added Component: Designator=R7(R0603)
+Added Component: Designator=R8(R0603)
+Added Component: Designator=R9(R0603)
+Added Pin To Net: NetName=N_COM1 Pin=R7-2
+Added Pin To Net: NetName=N_COM2 Pin=R8-2
+Added Pin To Net: NetName=N_COM3 Pin=R9-2
+Added Pin To Net: NetName=NetPNP2_1 Pin=PNP2-1
+Added Pin To Net: NetName=NetPNP2_1 Pin=R7-1
+Added Net: Name=NetPNP2_1
+Added Pin To Net: NetName=NetPNP3_1 Pin=PNP3-1
+Added Pin To Net: NetName=NetPNP3_1 Pin=R8-1
+Added Net: Name=NetPNP3_1
+Added Pin To Net: NetName=NetPNP4_1 Pin=PNP4-1
+Added Pin To Net: NetName=NetPNP4_1 Pin=R9-1
+Added Net: Name=NetPNP4_1
+Added Member To Class: ClassName=HCHO_Benchmark Member=Component R7 1K
+Added Member To Class: ClassName=HCHO_Benchmark Member=Component R8 1K
+Added Member To Class: ClassName=HCHO_Benchmark Member=Component R9 1K

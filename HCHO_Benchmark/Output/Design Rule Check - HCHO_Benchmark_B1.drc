@@ -1,0 +1,150 @@
+Protel Design System Design Rule Check
+PCB File : E:\Project\Altium\HCHO_Benchmark\HCHO_Benchmark_B1.PcbDoc
+Date     : 2015/5/22
+Time     : 19:10:42
+
+Processing Rule : Clearance Constraint (Gap=0.152mm) ((HasFootprint('FPC 0.5mm 4P') OR HasFootprint('FPC 0.5mm 16P') OR HasFootprint('QFN40P500X500X90_HS-41L'))),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
+   Violation between Track (18.593mm,-41.567mm)(32.572mm,-41.567mm)  Keep-Out Layer and 
+                     Pad J2-7(19.58mm,-42.555mm)  Top Layer
+   Violation between Track (18.593mm,-41.567mm)(32.572mm,-41.567mm)  Keep-Out Layer and 
+                     Pad J2-6(21.58mm,-42.555mm)  Top Layer
+   Violation between Track (18.593mm,-41.567mm)(32.572mm,-41.567mm)  Keep-Out Layer and 
+                     Pad J2-5(23.58mm,-42.555mm)  Top Layer
+   Violation between Track (18.593mm,-41.567mm)(32.572mm,-41.567mm)  Keep-Out Layer and 
+                     Pad J2-4(25.58mm,-42.555mm)  Top Layer
+   Violation between Track (18.593mm,-41.567mm)(32.572mm,-41.567mm)  Keep-Out Layer and 
+                     Pad J2-3(27.58mm,-42.555mm)  Top Layer
+   Violation between Track (18.593mm,-41.567mm)(32.572mm,-41.567mm)  Keep-Out Layer and 
+                     Pad J2-2(29.58mm,-42.555mm)  Top Layer
+   Violation between Track (18.593mm,-41.567mm)(32.572mm,-41.567mm)  Keep-Out Layer and 
+                     Pad J2-1(31.58mm,-42.555mm)  Top Layer
+   Violation between Pad J3-(67.194mm,-23.924mm)  Multi-Layer and 
+                     Pad J3-1(65.682mm,-30.027mm)  Top Layer
+   Violation between Pad J3-(67.194mm,-23.924mm)  Multi-Layer and 
+                     Pad J3-2(65.682mm,-28.027mm)  Top Layer
+   Violation between Pad J3-(67.194mm,-23.924mm)  Multi-Layer and 
+                     Pad J3-3(65.682mm,-26.027mm)  Top Layer
+   Violation between Pad J3-(67.194mm,-23.924mm)  Multi-Layer and 
+                     Pad J3-4(65.682mm,-24.027mm)  Top Layer
+   Violation between Pad J3-(67.194mm,-23.924mm)  Multi-Layer and 
+                     Pad J3-5(65.682mm,-22.027mm)  Top Layer
+   Violation between Pad J3-(67.194mm,-23.924mm)  Multi-Layer and 
+                     Pad J3-6(65.682mm,-20.027mm)  Top Layer
+   Violation between Pad J3-(67.194mm,-23.924mm)  Multi-Layer and 
+                     Pad J3-7(65.682mm,-18.027mm)  Top Layer
+   Violation between Pad J3-(67.194mm,-23.924mm)  Multi-Layer and 
+                     Pad J3-9(68.682mm,-20.027mm)  Top Layer
+   Violation between Pad J3-(67.194mm,-23.924mm)  Multi-Layer and 
+                     Pad J3-10(68.682mm,-22.027mm)  Top Layer
+   Violation between Track (68.682mm,-24.027mm)(69.385mm,-24.027mm)  Top Layer and 
+                     Pad J3-11(68.682mm,-24.027mm)  Top Layer
+   Violation between Pad J3-(67.194mm,-23.924mm)  Multi-Layer and 
+                     Pad J3-11(68.682mm,-24.027mm)  Top Layer
+   Violation between Pad J3-(67.194mm,-23.924mm)  Multi-Layer and 
+                     Pad J3-12(68.682mm,-26.027mm)  Top Layer
+   Violation between Pad J3-(67.194mm,-23.924mm)  Multi-Layer and 
+                     Pad J3-13(68.682mm,-28.027mm)  Top Layer
+   Violation between Track (68.682mm,-30.027mm)(68.719mm,-30.064mm)  Top Layer and 
+                     Pad J3-14(68.682mm,-30.027mm)  Top Layer
+   Violation between Pad J3-(67.194mm,-23.924mm)  Multi-Layer and 
+                     Pad J3-14(68.682mm,-30.027mm)  Top Layer
+   Violation between Track (18.593mm,-41.567mm)(32.572mm,-41.567mm)  Keep-Out Layer and 
+                     Pad J4-6(29.58mm,-42.555mm)  Bottom Layer
+   Violation between Track (18.593mm,-41.567mm)(32.572mm,-41.567mm)  Keep-Out Layer and 
+                     Pad J4-5(27.58mm,-42.555mm)  Bottom Layer
+   Violation between Track (18.593mm,-41.567mm)(32.572mm,-41.567mm)  Keep-Out Layer and 
+                     Pad J4-4(25.58mm,-42.555mm)  Bottom Layer
+   Violation between Track (18.593mm,-41.567mm)(32.572mm,-41.567mm)  Keep-Out Layer and 
+                     Pad J4-3(23.58mm,-42.555mm)  Bottom Layer
+   Violation between Track (18.593mm,-41.567mm)(32.572mm,-41.567mm)  Keep-Out Layer and 
+                     Pad J4-2(21.58mm,-42.555mm)  Bottom Layer
+   Violation between Track (18.593mm,-41.567mm)(32.572mm,-41.567mm)  Keep-Out Layer and 
+                     Pad J4-1(19.58mm,-42.555mm)  Bottom Layer
+   Violation between Track (68.682mm,-24.027mm)(69.385mm,-24.027mm)  Top Layer and 
+                     Track (68.682mm,-24.027mm)(70.355mm,-24.027mm)  Top Layer
+   Violation between Track (68.682mm,-30.027mm)(68.719mm,-30.064mm)  Top Layer and 
+                     Track (68.682mm,-30.027mm)(69.778mm,-30.027mm)  Top Layer
+Rule Violations :30
+
+Processing Rule : Width Constraint (Min=0.203mm) (Max=1000mm) (Preferred=0.508mm) ((InNet('EP_SUPPLY&VBAT') OR InNet('PSUPPLY') OR InNet('P_3.3V') OR InNet('PSUPPLYBAT') OR InNet('P_3.3V') OR InNet('P_5V')))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.203mm) (Max=100mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Pad J6-0(6.199mm,-23.927mm)  Multi-Layer and 
+                     Pad J6-1(4.899mm,-23.927mm)  Top Layer
+   Violation between Pad J6-0(6.199mm,-23.927mm)  Multi-Layer and 
+                     Pad J6-2(7.699mm,-23.927mm)  Top Layer
+   Violation between Pad J3-(67.194mm,-23.924mm)  Multi-Layer and 
+                     Pad J3-1(65.682mm,-30.027mm)  Top Layer
+   Violation between Pad J3-(67.194mm,-23.924mm)  Multi-Layer and 
+                     Pad J3-2(65.682mm,-28.027mm)  Top Layer
+   Violation between Pad J3-(67.194mm,-23.924mm)  Multi-Layer and 
+                     Pad J3-3(65.682mm,-26.027mm)  Top Layer
+   Violation between Pad J3-(67.194mm,-23.924mm)  Multi-Layer and 
+                     Pad J3-4(65.682mm,-24.027mm)  Top Layer
+   Violation between Pad J3-(67.194mm,-23.924mm)  Multi-Layer and 
+                     Pad J3-5(65.682mm,-22.027mm)  Top Layer
+   Violation between Pad J3-(67.194mm,-23.924mm)  Multi-Layer and 
+                     Pad J3-6(65.682mm,-20.027mm)  Top Layer
+   Violation between Pad J3-(67.194mm,-23.924mm)  Multi-Layer and 
+                     Pad J3-7(65.682mm,-18.027mm)  Top Layer
+   Violation between Pad J3-(67.194mm,-23.924mm)  Multi-Layer and 
+                     Pad J3-8(68.682mm,-18.027mm)  Top Layer
+   Violation between Pad J3-(67.194mm,-23.924mm)  Multi-Layer and 
+                     Pad J3-9(68.682mm,-20.027mm)  Top Layer
+   Violation between Pad J3-(67.194mm,-23.924mm)  Multi-Layer and 
+                     Pad J3-10(68.682mm,-22.027mm)  Top Layer
+   Violation between Track (68.682mm,-24.027mm)(69.385mm,-24.027mm)  Top Layer and 
+                     Pad J3-11(68.682mm,-24.027mm)  Top Layer
+   Violation between Pad J3-(67.194mm,-23.924mm)  Multi-Layer and 
+                     Pad J3-11(68.682mm,-24.027mm)  Top Layer
+   Violation between Pad J3-(67.194mm,-23.924mm)  Multi-Layer and 
+                     Pad J3-12(68.682mm,-26.027mm)  Top Layer
+   Violation between Pad J3-(67.194mm,-23.924mm)  Multi-Layer and 
+                     Pad J3-13(68.682mm,-28.027mm)  Top Layer
+   Violation between Track (68.682mm,-30.027mm)(68.719mm,-30.064mm)  Top Layer and 
+                     Pad J3-14(68.682mm,-30.027mm)  Top Layer
+   Violation between Pad J3-(67.194mm,-23.924mm)  Multi-Layer and 
+                     Pad J3-14(68.682mm,-30.027mm)  Top Layer
+   Violation between Track (68.682mm,-24.027mm)(69.385mm,-24.027mm)  Top Layer and 
+                     Track (68.682mm,-24.027mm)(70.355mm,-24.027mm)  Top Layer
+   Violation between Track (68.682mm,-30.027mm)(68.719mm,-30.064mm)  Top Layer and 
+                     Track (68.682mm,-30.027mm)(69.778mm,-30.027mm)  Top Layer
+Rule Violations :20
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0mm) (Max=1817.048mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=50.8mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.203mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 50
+Time Elapsed        : 00:00:01

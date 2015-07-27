@@ -1,0 +1,94 @@
+Protel Design System Design Rule Check
+PCB File : E:\Project\Altium\HCHO_Benchmark\HCHO_Benchmark_B4.PcbDoc
+Date     : 2015/6/19
+Time     : 11:49:56
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.203mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=50.8mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0mm) (Max=1817.048mm) (All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Track (3.09mm,-15.205mm)(3.09mm,-8.962mm)  Top Layer and 
+                     Pad J10-3(3.09mm,-15.205mm)  Top Layer
+   Violation between Track (0.89mm,-15.205mm)(0.89mm,-8.948mm)  Top Layer and 
+                     Pad J10-2(0.89mm,-15.205mm)  Top Layer
+   Violation between Pad J7-0(-4.654mm,-3.332mm)  Multi-Layer and 
+                     Pad J7-4(-3.454mm,-4.432mm)  Top Layer
+   Violation between Pad J7-0(-4.654mm,-3.332mm)  Multi-Layer and 
+                     Pad J7-3(-5.854mm,-4.432mm)  Top Layer
+   Violation between Pad J7-0(-4.654mm,-3.332mm)  Multi-Layer and 
+                     Pad J7-1(-3.454mm,-2.232mm)  Top Layer
+   Violation between Pad J7-0(-4.654mm,-3.332mm)  Multi-Layer and 
+                     Pad J7-2(-5.854mm,-2.232mm)  Top Layer
+   Violation between Pad J8-0(-86.315mm,-3.332mm)  Multi-Layer and 
+                     Pad J8-1(-87.515mm,-3.332mm)  Top Layer
+   Violation between Pad J8-0(-86.315mm,-3.332mm)  Multi-Layer and 
+                     Pad J8-2(-85.115mm,-3.332mm)  Top Layer
+   Violation between Track (1.983mm,-15.198mm)(1.983mm,-10.205mm)  Bottom Layer and 
+                     Pad La1-3(1.983mm,-10.205mm)  Multi-Layer
+   Violation between Track (0.89mm,-8.948mm)(0.983mm,-8.855mm)  Top Layer and 
+                     Pad La1-2(0.983mm,-8.855mm)  Multi-Layer
+   Violation between Track (0.89mm,-15.205mm)(0.89mm,-8.948mm)  Top Layer and 
+                     Pad La1-2(0.983mm,-8.855mm)  Multi-Layer
+   Violation between Track (2.983mm,-8.855mm)(3.09mm,-8.962mm)  Top Layer and 
+                     Pad La1-1(2.983mm,-8.855mm)  Multi-Layer
+   Violation between Track (3.09mm,-15.205mm)(3.09mm,-8.962mm)  Top Layer and 
+                     Pad La1-1(2.983mm,-8.855mm)  Multi-Layer
+   Violation between Track (0.89mm,-15.205mm)(3.09mm,-15.205mm)  Bottom Layer and 
+                     Pad J10-4(3.09mm,-15.205mm)  Bottom Layer
+   Violation between Track (0.89mm,-15.205mm)(3.09mm,-15.205mm)  Bottom Layer and 
+                     Pad J10-1(0.89mm,-15.205mm)  Bottom Layer
+Rule Violations :15
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.203mm) (Max=100mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.203mm) (Max=1000mm) (Preferred=0.508mm) ((InNet('EP_SUPPLY&VBAT') OR InNet('PSUPPLY') OR InNet('P_3.3V') OR InNet('PSUPPLYBAT') OR InNet('P_3.3V') OR InNet('P_5V')))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
+   Violation between Pad J7-0(-4.654mm,-3.332mm)  Multi-Layer and 
+                     Pad J7-4(-3.454mm,-4.432mm)  Top Layer
+   Violation between Pad J7-0(-4.654mm,-3.332mm)  Multi-Layer and 
+                     Pad J7-3(-5.854mm,-4.432mm)  Top Layer
+   Violation between Pad J7-0(-4.654mm,-3.332mm)  Multi-Layer and 
+                     Pad J7-1(-3.454mm,-2.232mm)  Top Layer
+   Violation between Pad J7-0(-4.654mm,-3.332mm)  Multi-Layer and 
+                     Pad J7-2(-5.854mm,-2.232mm)  Top Layer
+   Violation between Pad J8-0(-86.315mm,-3.332mm)  Multi-Layer and 
+                     Pad J8-1(-87.515mm,-3.332mm)  Top Layer
+   Violation between Pad J8-0(-86.315mm,-3.332mm)  Multi-Layer and 
+                     Pad J8-2(-85.115mm,-3.332mm)  Top Layer
+   Violation between Track (-87.515mm,-3.332mm)(-87.515mm,1.188mm)  Top Layer and 
+                     Pad J8-0(-86.315mm,-3.332mm)  Multi-Layer
+Rule Violations :7
+
+Processing Rule : Clearance Constraint (Gap=0.152mm) ((HasFootprint('FPC 0.5mm 4P') OR HasFootprint('FPC 0.5mm 16P') OR HasFootprint('QFN40P500X500X90_HS-41L'))),(All)
+Rule Violations :0
+
+
+Violations Detected : 22
+Time Elapsed        : 00:00:00

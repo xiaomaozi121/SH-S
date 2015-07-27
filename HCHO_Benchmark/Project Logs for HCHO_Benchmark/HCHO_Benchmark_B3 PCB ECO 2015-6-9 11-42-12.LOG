@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=HCHO_Benchmark Member=J8
+Added Component: Designator=J?(HCHO_Connect)
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-1
+Added Pin To Net: NetName=NetJ?_1 Pin=P1-C
+Added Net: Name=NetJ?_1
+Added Pin To Net: NetName=NetJ?_2 Pin=P1-A
+Added Net: Name=NetJ?_2
+Added Member To Class: ClassName=HCHO_Benchmark Member=Component J? CON2

@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=N_E Pin=N1-1
+Removed Pin From Net: NetName=N_D Pin=N1-2
+Removed Pin From Net: NetName=N_DP Pin=N1-3
+Removed Pin From Net: NetName=N_C Pin=N1-4
+Removed Pin From Net: NetName=N_G Pin=N1-5
+Removed Pin From Net: NetName=N_B Pin=N1-7
+Removed Pin From Net: NetName=N_COM3 Pin=N1-8
+Removed Pin From Net: NetName=N_COM2 Pin=N1-9
+Removed Pin From Net: NetName=N_F Pin=N1-10
+Removed Pin From Net: NetName=N_A Pin=N1-11
+Removed Pin From Net: NetName=N_COM1 Pin=N1-12
+Removed Pin From Net: NetName=V0.58 Pin=P1-A
+Removed Pin From Net: NetName=-INA Pin=P1-C
+Added Component: Designator=J6(CON7_PCB)
+Added Component: Designator=J7(CON7_PCB)
+Added Pin To Net: NetName=NetJ6_1 Pin=J6-1
+Added Pin To Net: NetName=NetJ6_1 Pin=P1-A
+Added Net: Name=NetJ6_1
+Added Pin To Net: NetName=NetJ6_2 Pin=J6-2
+Added Pin To Net: NetName=NetJ6_2 Pin=N1-7
+Added Net: Name=NetJ6_2
+Added Pin To Net: NetName=NetJ6_3 Pin=J6-3
+Added Pin To Net: NetName=NetJ6_3 Pin=N1-8
+Added Net: Name=NetJ6_3
+Added Pin To Net: NetName=NetJ6_4 Pin=J6-4
+Added Pin To Net: NetName=NetJ6_4 Pin=N1-9
+Added Net: Name=NetJ6_4
+Added Pin To Net: NetName=NetJ6_5 Pin=J6-5
+Added Pin To Net: NetName=NetJ6_5 Pin=N1-10
+Added Net: Name=NetJ6_5
+Added Pin To Net: NetName=NetJ6_6 Pin=J6-6
+Added Pin To Net: NetName=NetJ6_6 Pin=N1-11
+Added Net: Name=NetJ6_6
+Added Pin To Net: NetName=NetJ6_7 Pin=J6-7
+Added Pin To Net: NetName=NetJ6_7 Pin=N1-12
+Added Net: Name=NetJ6_7
+Added Pin To Net: NetName=NetJ7_1 Pin=J7-1
+Added Pin To Net: NetName=NetJ7_1 Pin=N1-1
+Added Net: Name=NetJ7_1
+Added Pin To Net: NetName=NetJ7_2 Pin=J7-2
+Added Pin To Net: NetName=NetJ7_2 Pin=N1-2
+Added Net: Name=NetJ7_2
+Added Pin To Net: NetName=NetJ7_3 Pin=J7-3
+Added Pin To Net: NetName=NetJ7_3 Pin=N1-3
+Added Net: Name=NetJ7_3
+Added Pin To Net: NetName=NetJ7_4 Pin=J7-4
+Added Pin To Net: NetName=NetJ7_4 Pin=N1-4
+Added Net: Name=NetJ7_4
+Added Pin To Net: NetName=NetJ7_5 Pin=J7-5
+Added Pin To Net: NetName=NetJ7_5 Pin=N1-5
+Added Net: Name=NetJ7_5
+Added Pin To Net: NetName=NetJ7_6 Pin=J7-6
+Added Pin To Net: NetName=NetJ7_6 Pin=N1-6
+Added Net: Name=NetJ7_6
+Added Pin To Net: NetName=NetJ7_7 Pin=J7-7
+Added Pin To Net: NetName=NetJ7_7 Pin=P1-C
+Added Net: Name=NetJ7_7
+Added Member To Class: ClassName=HCHO_Benchmark Member=Component J6 CON7_PCB
+Added Member To Class: ClassName=HCHO_Benchmark Member=Component J7 CON7_PCB

@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=USB NewDesignator=USB1
+Added Pin To Net: NetName=NetC1_1 Pin=SW1-2
+Added Pin To Net: NetName=NetC1_1 Pin=SW1-5
+Added Pin To Net: NetName=NetSW1_1 Pin=SW1-1
+Added Pin To Net: NetName=NetSW1_1 Pin=SW1-6
+Added Pin To Net: NetName=NetSW1_1 Pin=USB1-1
+Added Net: Name=NetSW1_1

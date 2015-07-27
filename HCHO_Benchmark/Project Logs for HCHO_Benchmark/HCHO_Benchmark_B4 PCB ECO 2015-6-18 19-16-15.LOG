@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetJ7_1 Pin=J7-1
+Removed Pin From Net: NetName=LASER_P Pin=J7-3
+Removed Member From Class: ClassName=HCHO_Benchmark Member=J7
+Added Component: Designator=J?(CON2x2_PCB)
+Added Pin To Net: NetName=LASER_P Pin=J?-1
+Added Pin To Net: NetName=NetJ7_1 Pin=J?-2
+Added Pin To Net: NetName=LASER_P Pin=J?-4
+Change Net Name : Old Net Name=NetJ7_1 New Net Name=NetJ?_2
+Added Pin To Net: NetName=NetJ?_3 Pin=J?-3
+Added Pin To Net: NetName=NetJ?_3 Pin=NPN1-3
+Added Net: Name=NetJ?_3
+Added Member To Class: ClassName=HCHO_Benchmark Member=Component J? CON2x2_PCB

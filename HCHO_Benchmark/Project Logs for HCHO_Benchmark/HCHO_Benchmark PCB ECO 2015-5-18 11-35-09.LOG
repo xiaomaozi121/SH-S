@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=V0.58 Pin=J6-1
+Added Pin To Net: NetName=-INA Pin=J7-7
+Added Pin To Net: NetName=V0.58 Pin=P1-A
+Added Pin To Net: NetName=-INA Pin=P1-C
+Added Member To Class: ClassName=HCHO_Benchmark Member=Component P1 photodetector

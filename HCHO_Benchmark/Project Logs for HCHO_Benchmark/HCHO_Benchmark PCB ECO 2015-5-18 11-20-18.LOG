@@ -1,0 +1,26 @@
+Added Component: Designator=J2(Con7x2_PCB)
+Added Component: Designator=J3(6.6mm)
+Added Component: Designator=J4(3.75mm)
+Added Component: Designator=J5(3.75mm)
+Added Pin To Net: NetName=V0.58 Pin=J2-1
+Added Pin To Net: NetName=N_COM1 Pin=J2-2
+Added Pin To Net: NetName=N_A Pin=J2-3
+Added Pin To Net: NetName=N_F Pin=J2-4
+Added Pin To Net: NetName=N_COM2 Pin=J2-5
+Added Pin To Net: NetName=N_COM3 Pin=J2-6
+Added Pin To Net: NetName=N_B Pin=J2-7
+Added Pin To Net: NetName=N_G Pin=J2-9
+Added Pin To Net: NetName=N_C Pin=J2-10
+Added Pin To Net: NetName=N_DP Pin=J2-11
+Added Pin To Net: NetName=N_D Pin=J2-12
+Added Pin To Net: NetName=N_E Pin=J2-13
+Added Pin To Net: NetName=NetC8_2 Pin=J2-14
+Change Net Name : Old Net Name=NetC8_2 New Net Name=-INA
+Change Net Name : Old Net Name=NetLaser1_1 New Net Name=NetLA1_1
+Added Pin To Net: NetName=NetJ2_8 Pin=J2-8
+Added Pin To Net: NetName=NetJ2_8 Pin=N1-6
+Added Net: Name=NetJ2_8
+Added Member To Class: ClassName=HCHO_Benchmark Member=Component J2 Con7x2_PCB
+Added Member To Class: ClassName=HCHO_Benchmark Member=Component J3 CON1
+Added Member To Class: ClassName=HCHO_Benchmark Member=Component J4 CON1
+Added Member To Class: ClassName=HCHO_Benchmark Member=Component J5 CON1

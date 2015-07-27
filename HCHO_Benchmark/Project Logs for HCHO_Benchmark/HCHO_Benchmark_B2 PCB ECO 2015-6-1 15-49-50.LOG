@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=C_LASER Pin=R1-1
+Removed Pin From Net: NetName=C_LASER Pin=U2-11
+Removed Pin From Net: NetName=N_F Pin=U2-20
+Added Pin To Net: NetName=N_F Pin=R1-1
+Added Pin To Net: NetName=N_F Pin=U2-11
+Added Pin To Net: NetName=C_LASER Pin=U2-20

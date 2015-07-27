@@ -1,0 +1,11 @@
+Removed Member From Class: ClassName=HCHO_Benchmark Member=J9
+Change Component DesignItemId : Designator=J8 Old DesignItemId=CON1_PCB New DesignItemId=CON2
+Change Component DesignItemId : Designator=J7 Old DesignItemId=CON1X2_PCB New DesignItemId=CON2
+Change Component Footprint: Designator=J8 Old Footprint=CON1_PCB New Footprint=CON2
+Change Component Footprint: Designator=J7 Old Footprint=CON1X2_PCB New Footprint=CON2
+Change Component Comment : Designator=J8 Old Comment=CON1_PCB New Comment=CON2
+Change Component Comment : Designator=J7 Old Comment=CON1X2_PCB New Comment=CON2
+Change Component Designator: OldDesignator=Measure NewDesignator=Measure1
+Added Pin To Net: NetName=NetJ8_2 Pin=J8-2
+Added Pin To Net: NetName=NetJ8_2 Pin=P1-A
+Added Net: Name=NetJ8_2

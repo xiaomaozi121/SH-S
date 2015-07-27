@@ -1,0 +1,4 @@
+Added Component: Designator=SW1(SS13F44)
+Added Pin To Net: NetName=NetC1_1 Pin=SW1-3
+Added Pin To Net: NetName=NetJ6_2 Pin=SW1-4
+Added Member To Class: ClassName=HCHO_Benchmark Member=Component SW1 SS13F44

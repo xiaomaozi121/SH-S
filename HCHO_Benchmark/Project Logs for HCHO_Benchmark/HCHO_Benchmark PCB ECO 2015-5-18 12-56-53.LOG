@@ -1,0 +1,30 @@
+Added Pin To Net: NetName=NetJ6_1 Pin=J6-1
+Added Pin To Net: NetName=NetJ6_2 Pin=J6-2
+Added Pin To Net: NetName=NetJ6_3 Pin=J6-3
+Added Pin To Net: NetName=NetJ6_4 Pin=J6-4
+Added Pin To Net: NetName=NetJ6_5 Pin=J6-5
+Added Pin To Net: NetName=NetJ6_6 Pin=J6-6
+Added Pin To Net: NetName=NetJ6_7 Pin=J6-7
+Added Pin To Net: NetName=NetJ7_1 Pin=J7-1
+Added Pin To Net: NetName=NetJ7_2 Pin=J7-2
+Added Pin To Net: NetName=NetJ7_3 Pin=J7-3
+Added Pin To Net: NetName=NetJ7_4 Pin=J7-4
+Added Pin To Net: NetName=NetJ7_5 Pin=J7-5
+Added Pin To Net: NetName=NetJ7_6 Pin=J7-6
+Added Pin To Net: NetName=NetJ7_1 Pin=N1-1
+Added Pin To Net: NetName=NetJ7_2 Pin=N1-2
+Added Pin To Net: NetName=NetJ7_3 Pin=N1-3
+Added Pin To Net: NetName=NetJ7_5 Pin=N1-4
+Added Pin To Net: NetName=NetJ7_6 Pin=N1-5
+Added Pin To Net: NetName=NetJ6_1 Pin=N1-7
+Added Pin To Net: NetName=NetJ6_2 Pin=N1-8
+Added Pin To Net: NetName=NetJ6_3 Pin=N1-9
+Added Pin To Net: NetName=NetJ6_5 Pin=N1-10
+Added Pin To Net: NetName=NetJ6_6 Pin=N1-11
+Added Pin To Net: NetName=NetJ6_7 Pin=N1-12
+Added Pin To Net: NetName=NetJ6_4 Pin=P1-A
+Added Pin To Net: NetName=NetJ7_4 Pin=P1-C
+Added Member To Class: ClassName=HCHO_Benchmark Member=Component J6 CON7_PCB
+Added Member To Class: ClassName=HCHO_Benchmark Member=Component J7 CON7_PCB
+Added Member To Class: ClassName=HCHO_Benchmark Member=Component N1 FJ4301BH
+Added Member To Class: ClassName=HCHO_Benchmark Member=Component P1 photodetector

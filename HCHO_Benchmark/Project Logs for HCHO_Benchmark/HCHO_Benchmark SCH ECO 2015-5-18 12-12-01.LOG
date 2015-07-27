@@ -1,0 +1,12 @@
+Remove Pin=R8-2 From Net=N_COM2
+Remove Pin=R9-2 From Net=N_COM3
+Remove Pin=U2-13 From Net=N_A
+Add Pin To Net: Pin=U2-6 Old Net=N_COM2 New Net=N_C
+Add Pin To Net: Pin=U2-10 Old Net=N_F New Net=N_B
+Add Pin To Net: Pin=U2-13 Old Net=N_A New Net=N_D
+Add Pin To Net: Pin=U2-15 Old Net=N_COM1 New Net=N_E
+Add Pin To Net: Pin=U2-17 Old Net=NetU2_17 New Net=N_G
+Change Pin Designator/Name:  Old Designator=U2-5 Old Name=OSCIN/PA1 New Designator =PD3 (HS)/AIN4/TIM2_CH2/ADC_ETR New Name=20
+Change Pin Designator/Name:  Old Designator=U2-6 Old Name=OSCOUT/PA2 New Designator =PD2 (HS)/AIN3/[TIM2_CH3] New Name=19
+Change Pin Designator/Name:  Old Designator=U2-10 Old Name=[SPI_NSS] TIM2_CH3/(HS) PA3 New Designator =PC6 (HS)/SPI_MOSI [TIM1_CH1] New Name=16
+Change Pin Designator/Name:  Old Designator=U2-15 Old Name=PC5 (HS)/SPI_SCK [TIM2_CH1] New Designator =OSCIN/PA1 New Name=5

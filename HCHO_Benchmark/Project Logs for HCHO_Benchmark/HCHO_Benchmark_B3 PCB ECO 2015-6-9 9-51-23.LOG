@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=SW1-3
+Removed Pin From Net: NetName=NetJ6_2 Pin=SW1-4
+Change Component DesignItemId : Designator=SW1 Old DesignItemId=SS12D07VG4 New DesignItemId=SS12F44
+Change Component Footprint: Designator=SW1 Old Footprint=SS12D07VG4 New Footprint=SS12F44
+Change Component Comment : Designator=SW1 Old Comment=SS12D07VG4 New Comment=SS12F44
+Added Pin To Net: NetName=NetC1_1 Pin=SW1-2
+Added Pin To Net: NetName=NetJ6_2 Pin=SW1-3

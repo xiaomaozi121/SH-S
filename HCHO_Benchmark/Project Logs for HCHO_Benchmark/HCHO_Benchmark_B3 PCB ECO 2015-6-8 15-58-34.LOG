@@ -1,0 +1,9 @@
+Change Component Comment : Designator=R4 Old Comment=1K New Comment=4.3M
+Change Component Comment : Designator=R3 Old Comment=1K New Comment=4.7K
+Added Component: Designator=J8(CON1_PCB)
+Added Component: Designator=J9(CON1_PCB)
+Added Pin To Net: NetName=NetJ8_1 Pin=J8-1
+Added Pin To Net: NetName=NetJ9_1 Pin=J9-1
+Added Pin To Net: NetName=NetJ9_1 Pin=P1-A
+Added Pin To Net: NetName=NetJ8_1 Pin=P1-C
+Added Class: Name=HCHO_Benchmark

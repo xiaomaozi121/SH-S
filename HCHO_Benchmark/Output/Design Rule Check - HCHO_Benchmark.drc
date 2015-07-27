@@ -1,0 +1,134 @@
+Protel Design System Design Rule Check
+PCB File : E:\Project\Altium\HCHO_Benchmark\HCHO_Benchmark.PcbDoc
+Date     : 2015/5/18
+Time     : 19:26:50
+
+Processing Rule : Clearance Constraint (Gap=6mil) ((HasFootprint('FPC 0.5mm 4P') OR HasFootprint('FPC 0.5mm 16P') OR HasFootprint('QFN40P500X500X90_HS-41L'))),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+   Violation between Track (-2695.564mil,-500.877mil)(-2145.218mil,-500.877mil)  Keep-Out Layer and 
+                     Pad J7-1(-2184.294mil,-539.642mil)  Top Layer
+   Violation between Track (-2695.564mil,-500.877mil)(-2145.218mil,-500.877mil)  Keep-Out Layer and 
+                     Pad J7-2(-2263.034mil,-539.642mil)  Top Layer
+   Violation between Track (-2695.564mil,-500.877mil)(-2145.218mil,-500.877mil)  Keep-Out Layer and 
+                     Pad J7-3(-2341.774mil,-539.642mil)  Top Layer
+   Violation between Track (-2695.564mil,-500.877mil)(-2145.218mil,-500.877mil)  Keep-Out Layer and 
+                     Pad J7-4(-2420.515mil,-539.642mil)  Top Layer
+   Violation between Track (-2695.564mil,-500.877mil)(-2145.218mil,-500.877mil)  Keep-Out Layer and 
+                     Pad J7-5(-2499.255mil,-539.642mil)  Top Layer
+   Violation between Track (-2695.564mil,-500.877mil)(-2145.218mil,-500.877mil)  Keep-Out Layer and 
+                     Pad J7-6(-2577.995mil,-539.642mil)  Top Layer
+   Violation between Track (-2695.564mil,-500.877mil)(-2145.218mil,-500.877mil)  Keep-Out Layer and 
+                     Pad J7-7(-2656.735mil,-539.642mil)  Top Layer
+   Violation between Pad J2-(-780.567mil,193.74mil)  Multi-Layer and 
+                     Pad J2-14(-721.984mil,-46.535mil)  Top Layer
+   Violation between Pad J2-(-780.567mil,193.74mil)  Multi-Layer and 
+                     Pad J2-13(-721.984mil,32.205mil)  Top Layer
+   Violation between Pad J2-(-780.567mil,193.74mil)  Multi-Layer and 
+                     Pad J2-12(-721.984mil,110.945mil)  Top Layer
+   Violation between Pad J2-(-780.567mil,193.74mil)  Multi-Layer and 
+                     Pad J2-11(-721.984mil,189.685mil)  Top Layer
+   Violation between Pad J2-(-780.567mil,193.74mil)  Multi-Layer and 
+                     Pad J2-10(-721.984mil,268.425mil)  Top Layer
+   Violation between Pad J2-(-780.567mil,193.74mil)  Multi-Layer and 
+                     Pad J2-9(-721.984mil,347.165mil)  Top Layer
+   Violation between Pad J2-(-780.567mil,193.74mil)  Multi-Layer and 
+                     Pad J2-7(-840.095mil,425.906mil)  Top Layer
+   Violation between Pad J2-(-780.567mil,193.74mil)  Multi-Layer and 
+                     Pad J2-6(-840.095mil,347.165mil)  Top Layer
+   Violation between Pad J2-(-780.567mil,193.74mil)  Multi-Layer and 
+                     Pad J2-5(-840.095mil,268.425mil)  Top Layer
+   Violation between Pad J2-(-780.567mil,193.74mil)  Multi-Layer and 
+                     Pad J2-4(-840.095mil,189.685mil)  Top Layer
+   Violation between Pad J2-(-780.567mil,193.74mil)  Multi-Layer and 
+                     Pad J2-3(-840.095mil,110.945mil)  Top Layer
+   Violation between Pad J2-(-780.567mil,193.74mil)  Multi-Layer and 
+                     Pad J2-2(-840.095mil,32.205mil)  Top Layer
+   Violation between Pad J2-(-780.567mil,193.74mil)  Multi-Layer and 
+                     Pad J2-1(-840.095mil,-46.535mil)  Top Layer
+   Violation between Track (-2695.564mil,-500.877mil)(-2145.218mil,-500.877mil)  Keep-Out Layer and 
+                     Pad J6-7(-2184.275mil,-539.78mil)  Bottom Layer
+   Violation between Track (-2695.564mil,-500.877mil)(-2145.218mil,-500.877mil)  Keep-Out Layer and 
+                     Pad J6-6(-2263.015mil,-539.78mil)  Bottom Layer
+   Violation between Track (-2695.564mil,-500.877mil)(-2145.218mil,-500.877mil)  Keep-Out Layer and 
+                     Pad J6-5(-2341.755mil,-539.78mil)  Bottom Layer
+   Violation between Track (-2695.564mil,-500.877mil)(-2145.218mil,-500.877mil)  Keep-Out Layer and 
+                     Pad J6-4(-2420.495mil,-539.78mil)  Bottom Layer
+   Violation between Track (-2695.564mil,-500.877mil)(-2145.218mil,-500.877mil)  Keep-Out Layer and 
+                     Pad J6-3(-2499.235mil,-539.78mil)  Bottom Layer
+   Violation between Track (-2695.564mil,-500.877mil)(-2145.218mil,-500.877mil)  Keep-Out Layer and 
+                     Pad J6-2(-2577.976mil,-539.78mil)  Bottom Layer
+Rule Violations :26
+
+Processing Rule : Width Constraint (Min=8mil) (Max=39370.079mil) (Preferred=20mil) ((InNet('EP_SUPPLY&VBAT') OR InNet('PSUPPLY') OR InNet('P_3.3V') OR InNet('PSUPPLYBAT') OR InNet('P_3.3V') OR InNet('P_5V')))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=3937.008mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Pad J2-(-780.567mil,193.74mil)  Multi-Layer and 
+                     Pad J2-14(-721.984mil,-46.535mil)  Top Layer
+   Violation between Pad J2-(-780.567mil,193.74mil)  Multi-Layer and 
+                     Pad J2-13(-721.984mil,32.205mil)  Top Layer
+   Violation between Pad J2-(-780.567mil,193.74mil)  Multi-Layer and 
+                     Pad J2-12(-721.984mil,110.945mil)  Top Layer
+   Violation between Pad J2-(-780.567mil,193.74mil)  Multi-Layer and 
+                     Pad J2-11(-721.984mil,189.685mil)  Top Layer
+   Violation between Pad J2-(-780.567mil,193.74mil)  Multi-Layer and 
+                     Pad J2-10(-721.984mil,268.425mil)  Top Layer
+   Violation between Pad J2-(-780.567mil,193.74mil)  Multi-Layer and 
+                     Pad J2-9(-721.984mil,347.165mil)  Top Layer
+   Violation between Pad J2-(-780.567mil,193.74mil)  Multi-Layer and 
+                     Pad J2-8(-721.984mil,425.906mil)  Top Layer
+   Violation between Pad J2-(-780.567mil,193.74mil)  Multi-Layer and 
+                     Pad J2-7(-840.095mil,425.906mil)  Top Layer
+   Violation between Pad J2-(-780.567mil,193.74mil)  Multi-Layer and 
+                     Pad J2-6(-840.095mil,347.165mil)  Top Layer
+   Violation between Pad J2-(-780.567mil,193.74mil)  Multi-Layer and 
+                     Pad J2-5(-840.095mil,268.425mil)  Top Layer
+   Violation between Pad J2-(-780.567mil,193.74mil)  Multi-Layer and 
+                     Pad J2-4(-840.095mil,189.685mil)  Top Layer
+   Violation between Pad J2-(-780.567mil,193.74mil)  Multi-Layer and 
+                     Pad J2-3(-840.095mil,110.945mil)  Top Layer
+   Violation between Pad J2-(-780.567mil,193.74mil)  Multi-Layer and 
+                     Pad J2-2(-840.095mil,32.205mil)  Top Layer
+   Violation between Pad J2-(-780.567mil,193.74mil)  Multi-Layer and 
+                     Pad J2-1(-840.095mil,-46.535mil)  Top Layer
+   Violation between Pad J9-0(-3183.534mil,193.622mil)  Multi-Layer and 
+                     Pad J9-1(-3234.715mil,193.622mil)  Top Layer
+   Violation between Pad J9-0(-3183.534mil,193.622mil)  Multi-Layer and 
+                     Pad J9-2(-3124.478mil,193.622mil)  Top Layer
+Rule Violations :16
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0mil) (Max=71537.307mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=2000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=8mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 42
+Time Elapsed        : 00:00:00

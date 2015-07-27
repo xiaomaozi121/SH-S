@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=J8 Old Footprint=CON2 New Footprint=Battry_Connector
+Added Member To Class: ClassName=HCHO_Benchmark Member=Component J8 CON2

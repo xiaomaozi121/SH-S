@@ -1,0 +1,24 @@
+Change Component Footprint: Designator=C3 Old Footprint=C0603 New Footprint=C0805
+Change Component Footprint: Designator=C4 Old Footprint=C0603 New Footprint=C0805
+Change Component Footprint: Designator=C5 Old Footprint=C0603 New Footprint=C0805
+Change Component Footprint: Designator=C9 Old Footprint=C0603 New Footprint=C0805
+Change Component Footprint: Designator=C10 Old Footprint=C0603 New Footprint=C0805
+Change Component Footprint: Designator=R1 Old Footprint=R0603 New Footprint=R0805
+Change Component Footprint: Designator=R2 Old Footprint=R0603 New Footprint=R0805
+Change Component Footprint: Designator=R3 Old Footprint=R0603 New Footprint=R0805
+Change Component Footprint: Designator=R4 Old Footprint=R0603 New Footprint=R0805
+Change Component Footprint: Designator=R5 Old Footprint=R0603 New Footprint=R0805
+Change Component Footprint: Designator=R6 Old Footprint=R0603 New Footprint=R0805
+Change Component Footprint: Designator=R7 Old Footprint=R0603 New Footprint=R0805
+Change Component Footprint: Designator=R8 Old Footprint=R0603 New Footprint=R0805
+Change Component Footprint: Designator=R9 Old Footprint=R0603 New Footprint=R0805
+Change Component Footprint: Designator=R10 Old Footprint=R0603 New Footprint=R0805
+Change Component Comment : Designator=R4 Old Comment=4.3M New Comment=1K
+Change Component Comment : Designator=R3 Old Comment=4K7 New Comment=1K
+Change Component Comment : Designator=R1 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=R2 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=R5 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=R6 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=R7 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=R10 Old Comment=330 New Comment=1K
+Change Component Designator: OldDesignator=Measure NewDesignator=Measure1

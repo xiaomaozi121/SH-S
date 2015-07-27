@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=NetJ8_1 Pin=J8-1
+Added Pin To Net: NetName=NetJ9_1 Pin=J9-1
+Added Pin To Net: NetName=NetJ9_1 Pin=P1-A
+Added Pin To Net: NetName=NetJ8_1 Pin=P1-C
+Added Member To Class: ClassName=HCHO_Benchmark Member=Component J8 CON1_PCB
+Added Member To Class: ClassName=HCHO_Benchmark Member=Component J9 CON1_PCB
+Added Member To Class: ClassName=HCHO_Benchmark Member=Component P1 photodetector

@@ -1,0 +1,12 @@
+Added Component: Designator=La?(Laser_Header)
+Added Pin To Net: NetName=NetJ10_1 Pin=J10-1
+Added Pin To Net: NetName=NetJ10_1 Pin=J10-4
+Added Pin To Net: NetName=NetJ10_1 Pin=La?-3
+Added Net: Name=NetJ10_1
+Added Pin To Net: NetName=NetJ10_2 Pin=J10-2
+Added Pin To Net: NetName=NetJ10_2 Pin=La?-2
+Added Net: Name=NetJ10_2
+Added Pin To Net: NetName=NetJ10_3 Pin=J10-3
+Added Pin To Net: NetName=NetJ10_3 Pin=La?-1
+Added Net: Name=NetJ10_3
+Added Member To Class: ClassName=HCHO_Benchmark Member=Component La? Laser_Header

@@ -1,0 +1,3 @@
+Remove Pin=U2-5 From Net=N_E
+Remove Pin=U2-16 From Net=N_B
+Remove Pin=U2-19 From Net=N_C
