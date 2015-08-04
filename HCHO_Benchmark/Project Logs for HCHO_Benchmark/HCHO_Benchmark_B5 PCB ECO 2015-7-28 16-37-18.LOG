@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=NBEEP Pin=U1-3
+Added Component: Designator=J5(CON4_PCB)
+Added Component: Designator=J6(CON1_PCB)
+Added Component: Designator=J7(CON1_PCB)
+Added Component: Designator=La1(Laser_Header)
+Added Component: Designator=P1(BPW34)
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1
+Added Pin To Net: NetName=NetJ5_2 Pin=J5-2
+Added Pin To Net: NetName=NetJ5_3 Pin=J5-3
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-4
+Added Pin To Net: NetName=NetJ6_1 Pin=J6-1
+Added Pin To Net: NetName=NetJ7_1 Pin=J7-1
+Added Pin To Net: NetName=NetJ5_3 Pin=La1-1
+Added Pin To Net: NetName=NetJ5_2 Pin=La1-2
+Added Pin To Net: NetName=NetJ5_1 Pin=La1-3
+Added Pin To Net: NetName=NetJ6_1 Pin=P1-A
+Added Pin To Net: NetName=NetJ7_1 Pin=P1-C
+Added Pin To Net: NetName=NBEEP Pin=U1-29
+Added Member To Class: ClassName=HCHO_Benchmark Member=Component J5 CON4_PCB
+Added Member To Class: ClassName=HCHO_Benchmark Member=Component J6 CON1_PCB
+Added Member To Class: ClassName=HCHO_Benchmark Member=Component J7 CON1_PCB
+Added Member To Class: ClassName=HCHO_Benchmark Member=Component La1 Laser_Header
+Added Member To Class: ClassName=HCHO_Benchmark Member=Component P1 photodetector

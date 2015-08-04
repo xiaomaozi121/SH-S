@@ -1,0 +1,8 @@
+Added Component: Designator=R4(R0805)
+Added Component: Designator=R6(R0805)
+Added Pin To Net: NetName=NetH1_1 Pin=R4-1
+Added Pin To Net: NetName=VBAT Pin=R4-2
+Added Pin To Net: NetName=NBEEP Pin=R6-1
+Added Pin To Net: NetName=NetNPN3_1 Pin=R6-2
+Added Member To Class: ClassName=HCHO_Benchmark Member=Component R4 0
+Added Member To Class: ClassName=HCHO_Benchmark Member=Component R6 4.7K

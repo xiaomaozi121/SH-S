@@ -1,0 +1,114 @@
+Protel Design System Design Rule Check
+PCB File : E:\Project\Altium\HCHO_Benchmark\HCHO_Benchmark_B5.PcbDoc
+Date     : 2015/7/31
+Time     : 10:11:16
+
+Processing Rule : Clearance Constraint (Gap=0.152mm) ((HasFootprint('FPC 0.5mm 4P') OR HasFootprint('FPC 0.5mm 16P') OR HasFootprint('QFN40P500X500X90_HS-41L'))),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
+   Violation between Pad J8-0(-2.081mm,-8.6mm)  Multi-Layer and 
+                     Pad J8-1(-3.281mm,-8.6mm)  Top Layer
+   Violation between Pad J8-0(-2.081mm,-8.6mm)  Multi-Layer and 
+                     Pad J8-2(-0.881mm,-8.6mm)  Top Layer
+   Violation between Pad J4-0(79.961mm,-8.6mm)  Multi-Layer and 
+                     Pad J4-2(81.161mm,-9.7mm)  Top Layer
+   Violation between Pad J4-0(79.961mm,-8.6mm)  Multi-Layer and 
+                     Pad J4-1(78.761mm,-9.7mm)  Top Layer
+   Violation between Pad J4-0(79.961mm,-8.6mm)  Multi-Layer and 
+                     Pad J4-3(81.161mm,-7.5mm)  Top Layer
+   Violation between Pad J4-0(79.961mm,-8.6mm)  Multi-Layer and 
+                     Pad J4-4(78.761mm,-7.5mm)  Top Layer
+   Violation between Track (-3.556mm,-8.262mm)(-3.281mm,-8.536mm)  Top Layer and 
+                     Pad J8-0(-2.081mm,-8.6mm)  Multi-Layer
+   Violation between Track (78.761mm,-9.763mm)(78.761mm,-7.563mm)  Top Layer and 
+                     Pad J4-0(79.961mm,-8.6mm)  Multi-Layer
+   Violation between Track (81.161mm,-7.563mm)(82.29mm,-7.563mm)  Top Layer and 
+                     Pad J4-0(79.961mm,-8.6mm)  Multi-Layer
+Rule Violations :9
+
+Processing Rule : Width Constraint (Min=0.203mm) (Max=1000mm) (Preferred=0.508mm) ((InNet('EP_SUPPLY&VBAT') OR InNet('PSUPPLY') OR InNet('P_3.3V') OR InNet('PSUPPLYBAT') OR InNet('P_3.3V') OR InNet('P_5V')))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.203mm) (Max=100mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Pad J8-0(-2.081mm,-8.6mm)  Multi-Layer and 
+                     Pad J8-1(-3.281mm,-8.6mm)  Top Layer
+   Violation between Pad J8-0(-2.081mm,-8.6mm)  Multi-Layer and 
+                     Pad J8-2(-0.881mm,-8.6mm)  Top Layer
+   Violation between Pad J4-0(79.961mm,-8.6mm)  Multi-Layer and 
+                     Pad J4-2(81.161mm,-9.7mm)  Top Layer
+   Violation between Pad J4-0(79.961mm,-8.6mm)  Multi-Layer and 
+                     Pad J4-1(78.761mm,-9.7mm)  Top Layer
+   Violation between Pad J4-0(79.961mm,-8.6mm)  Multi-Layer and 
+                     Pad J4-3(81.161mm,-7.5mm)  Top Layer
+   Violation between Pad J4-0(79.961mm,-8.6mm)  Multi-Layer and 
+                     Pad J4-4(78.761mm,-7.5mm)  Top Layer
+   Violation between Track (89.819mm,1.375mm)(89.819mm,3.668mm)  Top Layer and 
+                     Pad P1_1-A(89.819mm,1.375mm)  Top Layer
+   Violation between Track (84.819mm,1.375mm)(84.819mm,3.977mm)  Top Layer and 
+                     Pad P1_1-C(84.819mm,1.375mm)  Top Layer
+   Violation between Track (88.385mm,-10.06mm)(88.416mm,-10.029mm)  Top Layer and 
+                     Pad J10_1-3(88.385mm,-10.06mm)  Top Layer
+   Violation between Track (88.416mm,-10.029mm)(88.416mm,-3.848mm)  Top Layer and 
+                     Pad J10_1-3(88.385mm,-10.06mm)  Top Layer
+   Violation between Track (86.185mm,-10.06mm)(86.216mm,-10.029mm)  Top Layer and 
+                     Pad J10_1-2(86.185mm,-10.06mm)  Top Layer
+   Violation between Track (86.216mm,-10.029mm)(86.216mm,-3.772mm)  Top Layer and 
+                     Pad J10_1-2(86.185mm,-10.06mm)  Top Layer
+   Violation between Track (87.327mm,7.177mm)(87.358mm,7.146mm)  Top Layer and 
+                     Pad J9_1-1(87.327mm,7.177mm)  Top Layer
+   Violation between Track (87.358mm,6.13mm)(87.358mm,7.146mm)  Top Layer and 
+                     Pad J9_1-1(87.327mm,7.177mm)  Top Layer
+   Violation between Track (87.358mm,6.13mm)(89.819mm,3.668mm)  Top Layer and 
+                     Pad J9_1-1(87.327mm,7.177mm)  Top Layer
+   Violation between Track (87.278mm,-10.053mm)(87.278mm,-5.06mm)  Bottom Layer and 
+                     Pad La1_1-3(87.278mm,-5.06mm)  Multi-Layer
+   Violation between Track (86.216mm,-3.772mm)(86.278mm,-3.71mm)  Top Layer and 
+                     Pad La1_1-2(86.278mm,-3.71mm)  Multi-Layer
+   Violation between Track (86.216mm,-10.029mm)(86.216mm,-3.772mm)  Top Layer and 
+                     Pad La1_1-2(86.278mm,-3.71mm)  Multi-Layer
+   Violation between Track (88.416mm,-10.029mm)(88.416mm,-3.848mm)  Top Layer and 
+                     Pad La1_1-1(88.278mm,-3.71mm)  Multi-Layer
+   Violation between Track (88.278mm,-3.71mm)(88.416mm,-3.848mm)  Top Layer and 
+                     Pad La1_1-1(88.278mm,-3.71mm)  Multi-Layer
+   Violation between Track (84.971mm,3.977mm)(87.327mm,6.333mm)  Bottom Layer and 
+                     Pad J12_1-1(87.327mm,7.177mm)  Bottom Layer
+   Violation between Track (86.185mm,-10.06mm)(88.385mm,-10.06mm)  Bottom Layer and 
+                     Pad J10_1-4(88.385mm,-10.06mm)  Bottom Layer
+   Violation between Track (86.185mm,-10.06mm)(88.385mm,-10.06mm)  Bottom Layer and 
+                     Pad J10_1-1(86.185mm,-10.06mm)  Bottom Layer
+Rule Violations :23
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0mm) (Max=1817.048mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=50.8mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.203mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 32
+Time Elapsed        : 00:00:00
